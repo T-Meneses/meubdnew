@@ -1,0 +1,2 @@
+# meubdnew
+Atividade Criar MEUBDNEW E MINHA TABELA - INSERINDO 6 COLUNAS
